@@ -13,9 +13,13 @@ Currently diving deep into backend development, and creative side projects.
 
 ## 📈 My GitHub Stats
 
+<div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonalvijit&theme=default)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonalvijit&show_icons=true&theme=default)
+
+</div>
 
 ---
 
