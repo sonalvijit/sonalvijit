@@ -10,3 +10,11 @@ Welcome to my GitHub profile!
 📫 Feel free to connect or check out my projects below!
 
 > 🔒 Security-focused | 🧠 Constant Learner | 💻 Dev by Day
+
+---
+
+### 🌐 Find with me
+
+- [Twitter / X](https://twitter.com/shellforge)
+- [Instagram](https://instagram.com/shellforge7)
+- [My Personal Streams](https://youtube.com/@shellforgelive)
