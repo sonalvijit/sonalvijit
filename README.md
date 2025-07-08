@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 
 ---
 
-### 🌐 Find with me
+### 🌐 Find me
 
 - [Twitter / X](https://twitter.com/shellforge)
 - [Instagram](https://instagram.com/shellforge7)
