@@ -15,6 +15,7 @@ Welcome to my GitHub profile!
 
 ### 🌐 Find me
 
+<a href="https://twitter.com/shellforge" target="_blank">ShellForge</a>
 - [Twitter / X](https://twitter.com/shellforge)
 - [Instagram](https://instagram.com/shellforge7)
 - [My Personal Streams](https://youtube.com/@shellforgelive)
