@@ -17,4 +17,4 @@ Welcome to my GitHub profile!
 
 - [Twitter / X](https://twitter.com/shellforge)
 - [Instagram](https://instagram.com/shellforge7)
-- [My Personal Streams](https://youtube.com/@shellforgelive)
+- [My Streams](https://youtube.com/@shellforgelive)
